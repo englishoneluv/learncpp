@@ -18,8 +18,8 @@ TEST_CASE("Test zero inputs") {
 // Enable this test if you are brave enough!
 
 // TEST_CASE("Test big numbers") {
-//     int a = 3'000'000'000;
-//     int b = 3'000'000'000;
-//     int64_t correct_sum = 6'000'000'000;
+//     int a = 1'500'000'000;
+//     int b = 1'500'000'000;
+//     int64_t correct_sum = 3'000'000'000;
 //     CHECK(Sum(a, b) == correct_sum);
 // }
