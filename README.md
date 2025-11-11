@@ -8,6 +8,6 @@ git clone https://github.com/englishoneluv/learncpp.git
 ### 3. Complete the code! (In sum.h fix the Sum(int a, int b) function)
 ### 4. Run tests! Run this bash command in the task directory(task_sum)
 ```bash
-./run_tests.h
+./run_tests.sh
 ```
 ### 5. For (4) you need to have g++ compiler installed on your computer!
