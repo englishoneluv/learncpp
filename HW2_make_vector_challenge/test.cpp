@@ -43,11 +43,11 @@ TEST_CASE("Test MakeVector4") {
 
 TEST_CASE("Test MakeVector5") {
     {
-        auto vec = MakeVector4(2);
+        auto vec = MakeVector5(2);
         CHECK(vec == std::vector<int>{1, 2, 2, 1});
     }
     {
-        auto vec = MakeVector4(0);
+        auto vec = MakeVector5(0);
         CHECK(vec.empty());
     
     }
